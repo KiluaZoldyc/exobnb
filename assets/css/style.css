@@ -1,0 +1,63 @@
+ul {
+list-style:none;
+}
+#logo{
+	margin-top: 10px;
+}
+.un{
+margin-left: 150px;
+margin-top: 70px;
+font-size: 45px;
+}
+
+.ou{
+color:rgb(255,90,95);
+margin-top: 1px;
+}
+.est{
+	margin-top: 1px;
+}
+.donc{
+	margin-top: 2px;
+}
+.premier{
+	margin-top: 50px;
+	height: 60px;
+	width: 250px;
+}
+.titre{
+margin-left: 135px;
+}
+
+.nav2{
+margin-top: 20px;
+margin-left: 105px;
+}
+.resa{
+margin-left: 115px;
+font-size: 25px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#log{
+margin-left: 100px;
+margin-right: -160px;
+}
+.row{
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+.premier{
+	margin-bottom: 10px;
+	display: inline;
+
+
+
+}
+.deux{
+	text-align: left;
+	
+	
+}
